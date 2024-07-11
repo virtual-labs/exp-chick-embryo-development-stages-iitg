@@ -1,0 +1,61 @@
+#parent_container {
+    width: 80%;
+    height: 80vh;
+    margin: auto;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    font-size: 1.5rem;
+    color: #333333;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#simulation_container {
+    width: 100%;
+    height: 80%;
+    margin-bottom: 20px; 
+}
+
+#button_container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+#start, #play-all, #next, #prev {
+    margin-right: 10px;
+    padding: 10px 20px; /* Add some padding */
+    background-color: #3daed3;
+    color: white; /* White text */
+    border: none; /* Remove border */
+    cursor: pointer; /* Mouse pointer on hover */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 1em; /* Increase font size */
+    transition-duration: 0.4s; /* Add a transition effect */
+}
+
+#start:hover, #play-all:hover, #next:hover, #prev:hover {
+    background-color: #2c99ce;
+}
+
+/* Adjust button size for screens smaller than 600px */
+@media (max-width: 600px) {
+    #start, #play-all, #next, #prev {
+        padding: 5px 10px; /* Reduce the padding */
+        font-size: 0.8em; /* Reduce the font size */
+    }
+}
+@media (max-width: 600px) {
+    #title {
+        font-size: 1.2rem; /* Reduce the font size */
+    }
+}
