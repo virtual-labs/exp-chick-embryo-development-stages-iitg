@@ -4,7 +4,7 @@ Hens, scientifically known as Gallus gallus domesticus, are oviparous animals th
 
 #### Structure of egg :
 
-<img src="images/img1.png" width="500" height="500">
+<br><div style="text-align: center;"><img src="images/img1.png" width="500" height="500"></div>
 
 The egg of a hen is polytelic (containing a large amount of yolk).
 

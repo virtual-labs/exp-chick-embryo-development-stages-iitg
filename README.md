@@ -7,7 +7,7 @@
 
 ### About the Experiment 
 
-NEED TO WRITE INTRO
+The development of a chicken egg is a fascinating process that spans approximately 21 days from fertilization to hatching. During this period, the embryo undergoes significant changes, transforming from a single cell into a fully formed chick. This process involves critical stages such as the formation of vital organs, the development of feathers, and the absorption of nutrients from the yolk, all of which are essential for the chick's survival and growth.
 
 <b>Name of Developer | <b> Shraddha More 
 :--|:--|
