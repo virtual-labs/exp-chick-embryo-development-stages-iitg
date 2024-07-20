@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the Incubation period of chicken egg?",
+      "question": "1. What is the Incubation period of chicken egg?",
       "answers": {
         "a": "19",
         "b": "21",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What should be the optimum temperature in celsius for the eggs to hatch?",
+      "question": "2. What should be the optimum temperature in celsius for the eggs to hatch?",
       "answers": {
         "a": "39-40",
         "b": "37-38",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which part of the egg is responsible for chick embryo development?",
+      "question": "3. Which part of the egg is responsible for chick embryo development?",
       "answers": {
         "a": "Vitelline membrane",
         "b": "Chalaza",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Write them in correct order of chick embryonic development <br> a) Heart beating. <br> b) Nervous system <br> c) Eye pigmentation <br> d) Appearance of beak",
+      "question": "4. Write them in correct order of chick embryonic development <br> a) Heart beating. <br> b) Nervous system <br> c) Eye pigmentation <br> d) Appearance of beak",
       "answers": {
         "a": "bacd",
         "b": "abcd",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the pipping process in chick embryology?",
+      "question": "5. What is the pipping process in chick embryology?",
       "answers": {
         "a": "The stage where the chick starts to develop feathers",
         "b": "The process by which the chick absorbs the remaining yolk",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is NOT one of the extra-embryonic membranes in the chick embryo?",
+      "question": "6. Which of the following is NOT one of the extra-embryonic membranes in the chick embryo?",
       "answers": {
         "a": "Amnion",
         "b": "Yolk sac",
@@ -101,6 +101,74 @@
         "d": ""
       },
       "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. During chick development, what is the role of the yolk sac?",
+      "answers": {
+        "a": "Provides gas exchange",
+        "b": "Facilitates waste removal",
+        "c": "Provides nutrients to the developing embryo",
+        "d": "Protects the embryo from mechanical damage"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Where is the air cell located in an egg?",
+      "answers": {
+        "a": "At the pointed cone end",
+        "b": "Between the outer and inner membranes at the large, rounded end",
+        "c": "Within the egg yolk",
+        "d": "Surrounding the germinal disc"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Which structure protects and gives shape to the egg yolk?",
+      "answers": {
+        "a": "Chalaza",
+        "b": "Vitelline membrane",
+        "c": "Germinal disc",
+        "d": "Albumin"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. What is the significance of germinal disc?",
+      "answers": {
+        "a": "It allows gas exchange",
+        "b": "It is where fertilization occurs and is responsible for chick embryo development",
+        "c": "In the egg white it provides cushioning",
+        "d": "It forms the air cell"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
