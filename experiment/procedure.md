@@ -56,3 +56,10 @@ As the incubation process continues, the embryo develops and forms the different
 * <b> Day 21: </b>Finally, on the twenty-first day, the chick hatches, marking the end of the embryonic development.<br>
 
 <br><i>It's a complex process that involves multiple stages, but it's amazing how the egg develops into a fully formed chick with all the necessary systems.</i>
+
+<br><br>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <figure class="video_container" style="width: 600px; height: 350px;">
+    <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/videoseries?si=pbXJWEJQVL-CG_EB&amp;list=PLTkVi3dAX_--7Obyo-8UthYEJOvHGaCQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </figure>
+</div>
