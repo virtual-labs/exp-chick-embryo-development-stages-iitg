@@ -1,8 +1,7 @@
 #parent_container {
     width: 80%;
-    height: 80vh;
-    margin: auto;
-    overflow: auto;
+    height: 95vh;
+    margin: auto;    
     display: flex;
     flex-direction: column;
     align-items: center;
