@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the name of the structure that helps the chick embryo exchange gases with the outside environment?",
+      "question": "1. What is the name of the structure that helps the chick embryo exchange gases with the outside environment?",
       "answers": {
         "a": "Amniotic sac",
         "b": "Allantois",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the name of the structure that allows the chick to break through the eggshell during the hatching process?",
+      "question": "2. What is the name of the structure that allows the chick to break through the eggshell during the hatching process?",
       "answers": {
         "a": "Egg tooth",
         "b": "Beak",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following extra-embryonic membranes is composed of ectoderm and mesoderm germ layers?",
+      "question": "3. Which of the following extra-embryonic membranes is composed of ectoderm and mesoderm germ layers?",
       "answers": {
         "a": "Amnion and Yolk sac",
         "b": "Amnion and chorion",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following is NOT a function of the amniotic sac in the developing chick embryo?",
+      "question": "4. Which of the following is NOT a function of the amniotic sac in the developing chick embryo?",
       "answers": {
         "a": "Protecting the embryo from shock",
         "b": "Regulating temperature",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which germ layer gives rise to the mammary glands, which produce milk for offspring?",
+      "question": "5. Which germ layer gives rise to the mammary glands, which produce milk for offspring?",
       "answers": {
         "a": "Ectoderm",
         "b": "Mesoderm",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following structures is responsible for storing calcium in a developing chick embryo?",
+      "question": "6. Which of the following structures is responsible for storing calcium in a developing chick embryo?",
       "answers": {
         "a": "Amnion",
         "b": "Chorion",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following structures in a chicken egg is responsible for providing nutrients to the developing embryo?",
+      "question": "7. Which of the following structures in a chicken egg is responsible for providing nutrients to the developing embryo?",
       "answers": {
         "a": "Cuticle",
         "b": "Chalaza",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the purpose of the chalaza in a chicken egg?",
+      "question": "8. What is the purpose of the chalaza in a chicken egg?",
       "answers": {
         "a": "To anchor the yolk in the center of the egg",
         "b": "To provide nutrients to the developing embryo",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which germ layer gives rise to the thyroid gland, which produces hormones that regulate metabolism and growth?",
+      "question": "9. Which germ layer gives rise to the thyroid gland, which produces hormones that regulate metabolism and growth?",
       "answers": {
         "a": "Ectoderm",
         "b": "Mesoderm",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Which of the following structures connects the embryo to the yolk sac?",
+      "question": "10. Which of the following structures connects the embryo to the yolk sac?",
       "answers": {
         "a": "Amniotic sac",
         "b": "Allantois",
