@@ -1,0 +1,7 @@
+
+/home/runner/work/exp-chick-embryo-development-stages-iitg/exp-chick-embryo-development-stages-iitg/experiment/simulation/js/chick.js
+  106:25  warning  'lottie' is not defined             no-undef
+  125:34  warning  'reject' is defined but never used  no-unused-vars
+
+✖ 2 problems (0 errors, 2 warnings)
+
