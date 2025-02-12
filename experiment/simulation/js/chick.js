@@ -29,6 +29,9 @@ document.getElementById('prev').style.display = 'none';
 
 document.getElementById('start').addEventListener('click', () => {
     loadAnimation();
+    if (document.getElementById('temp_container')){
+        document.getElementById('temp_container').style.display = 'none'
+    }
     document.getElementById('start').style.display = 'none';
     document.getElementById('play-all').style.display = 'inline-block';
     document.getElementById('next').style.display = 'inline-block';
@@ -145,3 +148,14 @@ function playAnimation(index) {
         }
     });
 }
+
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    lottie.loadAnimation({
+        container: document.getElementById('temp_container'),
+        renderer: 'svg',
+        loop: false,
+        autoplay: false,
+        path: animations[0]
+    });
+});
