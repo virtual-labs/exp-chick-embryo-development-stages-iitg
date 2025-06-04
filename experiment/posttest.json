@@ -2,37 +2,173 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What is the name of the structure that helps the chick embryo exchange gases with the outside environment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Amniotic sac",
+        "b": "Allantois",
+        "c": "Chorion",
+        "d": "Yolk sac"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the name of the structure that allows the chick to break through the eggshell during the hatching process?",
+      "answers": {
+        "a": "Egg tooth",
+        "b": "Beak",
+        "c": "Pipping muscle",
+        "d": "Allantois"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. Which of the following extra-embryonic membranes is composed of ectoderm and mesoderm germ layers?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Amnion and Yolk sac",
+        "b": "Amnion and chorion",
+        "c": "Yolk sac and chorion",
+        "d": "Allantois and yolk sac"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which of the following is NOT a function of the amniotic sac in the developing chick embryo?",
+      "answers": {
+        "a": "Protecting the embryo from shock",
+        "b": "Regulating temperature",
+        "c": "Providing oxygen for respiration",
+        "d": "Allowing for movement and growth"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which germ layer gives rise to the mammary glands, which produce milk for offspring?",
+      "answers": {
+        "a": "Ectoderm",
+        "b": "Mesoderm",
+        "c": "Endoderm",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which of the following structures is responsible for storing calcium in a developing chick embryo?",
+      "answers": {
+        "a": "Amnion",
+        "b": "Chorion",
+        "c": "Yolk sac",
+        "d": "Allantois"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which of the following structures in a chicken egg is responsible for providing nutrients to the developing embryo?",
+      "answers": {
+        "a": "Cuticle",
+        "b": "Chalaza",
+        "c": "Blastodics",
+        "d": "Albumen"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. What is the purpose of the chalaza in a chicken egg?",
+      "answers": {
+        "a": "To anchor the yolk in the center of the egg",
+        "b": "To provide nutrients to the developing embryo",
+        "c": "To protect the egg from physical damage",
+        "d": "To provide oxygen to the developing embryo"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Which germ layer gives rise to the thyroid gland, which produces hormones that regulate metabolism and growth?",
+      "answers": {
+        "a": "Ectoderm",
+        "b": "Mesoderm",
+        "c": "Endoderm",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. Which of the following structures connects the embryo to the yolk sac?",
+      "answers": {
+        "a": "Amniotic sac",
+        "b": "Allantois",
+        "c": "Chorion",
+        "d": "Vitelline duct"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

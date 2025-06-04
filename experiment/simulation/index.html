@@ -3,11 +3,27 @@
 <head>
 	<!-- Add CSS at the head of HTML file -->
     <link rel="stylesheet" href="./css/main.css">
+	<link rel="stylesheet" href="./css/chick.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.8/lottie.min.js" crossorigin="anonymous"></script>
 </head>
 <body>
-		<!-- Your code goes here-->
+	<div id="parent_container">
+		<div id="title"></div>
+		<div id="simulation_container">
+			<div id="temp_container">
+
+			</div>
+		</div>
+		<div id="button_container">
+			<button id="start">Start Simulation</button>
+			<button id="play-all" style="display: none;">Play All</button>                            
+			<button id="prev" style="display: none;">Previous</button>
+			<button id="next" style="display: none;">Next</button>
+		</div>
+	</div>
 
 	<!-- Add JS at the bottom of HTML file --> 
         <script src="./js/main.js"></script>
+		<script src="./js/chick.js"></script>
 </body>
 </html>
